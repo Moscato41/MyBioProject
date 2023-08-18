@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body{
+    background-color: rgb(116, 77, 77);
+    color: white;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+  }
